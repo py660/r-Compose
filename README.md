@@ -1,2 +1,2 @@
 # r-Compose
-r/Code is a collaborative coding project where users can contribute code and eventually construct a complete program. It all starts with the first note.
+There is nothing. You may create a burst of sound, but you must wait to create another. Individually you can compose something. Together you can construct something more.
